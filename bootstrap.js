@@ -37,10 +37,10 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'First Post! Yay!', 		// this is the TITLE place in the class
+				'Donkeys in the Santorini Kaldera', 		// this is the TITLE place in the class
 				'https://google.com',	// this is the LINK place in the class
 				'An Author',			// this is the AUTHOR place in the class
-				'https://unsplash.it/200',	// this is the IMAGE place in the class
+				'http://l7.alamy.com/zooms/91d0740e21bf4e0b995165a48db1dd1d/drover-on-donkey-at-the-top-of-the-caldera-at-thira-santorini-cyclades-cc8ktm.jpg',	// this is the IMAGE place in the class
 				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
 				),
 
@@ -63,7 +63,7 @@ const app = new Vue({
 			new Post(
 				'Another Post: promptly judged',
 				'https://vuejs.org',
-				'Jane Author',
+				'Jane\' Author',
 				'https://unsplash.it/200',
 				'We promptly judged antique ivory buckles for the next prize.'
 				),
