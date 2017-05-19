@@ -38,17 +38,17 @@ const app = new Vue({
 			// constructed Post item
 			new Post(
 				'Donkeys in the Santorini Kaldera', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
-				'An Author',			// this is the AUTHOR place in the class
+				'http://mygreecetravelblog.com/2013/04/12/dont-ride-the-donkeys-why-tourists-should-avoid-taking-the-mule-taxis-on-santorini/',	// this is the LINK place in the class
+				'Donny B',			// this is the AUTHOR place in the class
 				'http://l7.alamy.com/zooms/91d0740e21bf4e0b995165a48db1dd1d/drover-on-donkey-at-the-top-of-the-caldera-at-thira-santorini-cyclades-cc8ktm.jpg',	// this is the IMAGE place in the class
 				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
 				),
 
 			new Post(
-				'Second Post: Lorem',
-				'https://vuejs.org',
-				'Sammie Author',
-				'img-200.jpg', // this is a local image in the same folder as the js script
+				'God Spaliaras',
+				'https://en.wikipedia.org/wiki/Survivor_Greece_5',
+				'Assorted Authors',
+				'https://s-media-cache-ak0.pinimg.com/originals/7f/f5/6e/7ff56e46c23578d5aee39de14794ae0f.jpg', // this is a local image in the same folder as the js script
 				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
 				),
 
