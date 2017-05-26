@@ -49,15 +49,15 @@ const app = new Vue({
 				'https://en.wikipedia.org/wiki/Survivor_Greece_5',
 				'Assorted Authors',
 				'https://s-media-cache-ak0.pinimg.com/originals/7f/f5/6e/7ff56e46c23578d5aee39de14794ae0f.jpg', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'No explanation needed. '
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'Rock Climbing in the Olympics in 2020',
+				'https://www.climbing.com/news/climbing-officially-approved-for-2020-olympics/',
+				'Kevin Corrigan',
+				'https://s-media-cache-ak0.pinimg.com/originals/e0/a4/b1/e0a4b133a422891d0f7a0d08e6fe2750.jpg',
+				'Rock climbing is finally in the Olympics.'
 				),
 
 			new Post(
