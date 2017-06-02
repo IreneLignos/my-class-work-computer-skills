@@ -41,7 +41,7 @@ const app = new Vue({
 				'http://mygreecetravelblog.com/2013/04/12/dont-ride-the-donkeys-why-tourists-should-avoid-taking-the-mule-taxis-on-santorini/',	// this is the LINK place in the class
 				'Donny B',			// this is the AUTHOR place in the class
 				'http://l7.alamy.com/zooms/91d0740e21bf4e0b995165a48db1dd1d/drover-on-donkey-at-the-top-of-the-caldera-at-thira-santorini-cyclades-cc8ktm.jpg',	// this is the IMAGE place in the class
-				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
+				'Wow dumb tourists.' // this is the BODY place in the class
 				),
 
 			new Post(
@@ -61,19 +61,27 @@ const app = new Vue({
 				),
 
 			new Post(
-				'Another Post: promptly judged',
-				'https://vuejs.org',
-				'Jane\' Author',
-				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'Gentle Giants',
+				'http://animals.mom.me/largest-horse-alive-4369.html',
+				'Unknown',
+				'https://s-media-cache-ak0.pinimg.com/736x/90/33/b1/9033b14d163e9d93431e294022044d73.jpg',
+				'The largest horse breed is the Shire, a breed of draft horse.'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'Christos Tousis :)',
+				'http://adrion-art.eu/index.php/en/information-eng/232-parga-eng/literature-poetry/8476-tousis-christos-en',
+				'Unknown',
+				'http://4.bp.blogspot.com/-NkJTFyoDMSE/TustzGD-coI/AAAAAAAAbNw/xMJiKILO-Pk/s1600/tus_ft_eleanna_azoyki_horepse_moro_2259871_b.jpg',
+				'A famous rapper in Greece.'
+				),
+				
+			new Post(
+				'Napili Bay',
+				'http://www.prideofmaui.com/blog/maui/top-10-things-napili-kapalua.html',
+				'Alexandra Mitchell',
+				'https://planningforadventure.files.wordpress.com/2015/07/sea-house.jpg',
+				'Paradise!!!!! :)'
 				)
 		]
 	},
